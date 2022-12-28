@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raja00912" alt="raja00912" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
+
 - 🔭 I’m currently working on **Frank-Body-Clone**
 
 - 🌱 I’m currently learning **ReactJs, Redux, NodeJs, Express, MongoDB**
